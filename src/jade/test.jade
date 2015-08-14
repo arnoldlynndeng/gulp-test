@@ -1,0 +1,16 @@
+doctype html
+html
+  head
+    title test
+    // build:css static/main.css
+    link(rel='stylesheet', href='css/test.css')
+    // endbuild
+  body
+    include ./layout/header.jade
+    div 
+      img(src="images/info.png")
+
+  footer
+    // build:js static/all.js
+    script(src='js/test.js')
+    // endbuild

@@ -1,0 +1,51 @@
+{
+  "name": "test-gulp",
+  "version": "1.0.0",
+  "description": "test gulp use",
+  "main": ".",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": ".."
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Arnold Deng",
+  "license": ".",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.9.0",
+    "gulp-changed": "^1.3.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-coffee": "^2.3.1",
+    "gulp-copy": "0.0.2",
+    "gulp-csso": "^1.0.0",
+    "gulp-filter": "^3.0.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-less": "^3.0.3",
+    "gulp-livereload": "^3.8.0",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-postcss": "^5.1.10",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^5.1.0",
+    "gulp-rev-all": "^0.8.21",
+    "gulp-rev-collector": "^1.0.0",
+    "gulp-rev-css-url": "^0.1.0",
+    "gulp-rev-replace": "^0.4.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-useref": "^1.3.0",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.3.4",
+    "imagemin-pngquant": "^4.1.2",
+    "less-plugin-autoprefix": "^1.4.2",
+    "less-plugin-clean-css": "^1.5.1",
+    "q": "^1.4.1"
+  }
+}
